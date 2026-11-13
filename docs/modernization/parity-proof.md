@@ -1,3 +1,7 @@
+---
+description: "Parity Proof (early access): tests that pin today's behavior and must pass on both the old and the new code before a slice ships."
+---
+
 # Parity Proof
 
 <span class="badge badge-early">Early access</span> <span class="badge badge-plan">Business and Enterprise</span>

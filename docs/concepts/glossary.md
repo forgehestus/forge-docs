@@ -1,3 +1,7 @@
+---
+description: "Glossary of Forge terms such as epic, story, plan and cost band."
+---
+
 # Glossary
 
 **Epic.** One feature request on a GitHub issue that Forge plans, builds, tests and delivers.

@@ -1,3 +1,7 @@
+---
+description: "Set up a Forge project: onboard a repository with /init, detected stacks, repo skills and project guardrails."
+---
+
 # Project setup
 
 <span class="badge badge-live">Live</span>

@@ -1,3 +1,7 @@
+---
+description: "Stacks Forge supports for building and for modernization sources, including .NET, Java and Python."
+---
+
 # Supported stacks
 
 <span class="badge badge-live">Live</span>

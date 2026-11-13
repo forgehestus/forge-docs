@@ -1,3 +1,7 @@
+---
+description: The stages of a Forge epic, from labeled GitHub issue and cost-banded plan to build, review, deploy and pull request.
+---
+
 # Epic lifecycle
 
 <span class="badge badge-live">Live</span>

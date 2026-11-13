@@ -1,3 +1,7 @@
+---
+description: Known limitations of Forge today, so you can judge fit before you start.
+---
+
 # Known limitations
 
 We would rather you hear these from us.

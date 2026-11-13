@@ -1,3 +1,7 @@
+---
+description: Sign up, connect GitHub and run your first Forge epic from a GitHub issue to a reviewed pull request.
+---
+
 # Quickstart: your first epic
 
 <span class="badge badge-live">Live</span>

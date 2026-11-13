@@ -1,3 +1,7 @@
+---
+description: "How to reach Forge support, what to send us and how to report a security issue."
+---
+
 # Support
 
 Support is founder-led. What you get depends on your plan:

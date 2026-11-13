@@ -1,3 +1,7 @@
+---
+description: How Forge uses branches, pull requests and deployments, and which branches it merges into.
+---
+
 # Branches, PRs and deploys
 
 <span class="badge badge-live">Live</span>

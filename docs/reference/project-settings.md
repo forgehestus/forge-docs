@@ -1,3 +1,7 @@
+---
+description: "Forge project settings reference: branches, workflow options and pull request timing, with presets."
+---
+
 # Project settings
 
 <span class="badge badge-live">Live</span>

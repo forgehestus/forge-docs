@@ -1,8 +1,12 @@
+---
+description: "Forge plans compared: what Team, Business and Enterprise include."
+---
+
 # Plans and availability
 
 <span class="badge badge-live">Live</span>
 
-Forge is offered in three plans: Team, Business and Enterprise. For prices and current terms, see the pricing page on [forgestus.ai](https://forgestus.ai). The table below shows what is available on each plan.
+Forge is offered in three plans: Team, Business and Enterprise. For prices and current terms, see the [Forge pricing and plans page](https://forgestus.ai/pricing.html). The table below shows what is available on each plan.
 
 | Capability | Team | Business | Enterprise |
 |---|---|---|---|

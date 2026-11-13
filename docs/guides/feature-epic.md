@@ -1,3 +1,7 @@
+---
+description: Step-by-step guide to delivering a feature with Forge, from writing the epic to reviewing the pull request.
+---
+
 # Ship a feature epic
 
 <span class="badge badge-live">Live</span>

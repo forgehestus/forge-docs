@@ -1,3 +1,7 @@
+---
+description: "What Forge stores and for how long, what leaves Forge, where processing happens and how masking works."
+---
+
 # Data handling and retention
 
 <span class="badge badge-live">Live</span>

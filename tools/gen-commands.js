@@ -16,7 +16,11 @@ const clean = (s) => (s || "")
   .join(" ")
   .trim();
 const esc = (s) => String(s).replace(/\|/g, "\\|").replace(/\n/g, " ");
-let out = `# Slash command reference
+let out = `---
+description: "Forge slash command reference: every command you can type in a GitHub issue comment to control an epic or story."
+---
+
+# Slash command reference
 
 Forge reads commands from GitHub issue comments. Type the command as the **first line** of a comment on the epic or story issue.
 

@@ -1,3 +1,7 @@
+---
+description: "Forge documentation: how Forge takes a GitHub issue to a reviewed pull request, and how it modernizes .NET Framework systems one tested slice at a time."
+---
+
 # Forge
 
 Forge is an autonomous software delivery system. It works inside your existing codebase and takes a piece of work from a GitHub issue to a reviewed pull request, with tests, security review, deployment and an audit trail. People approve the plan and review the result. Specialized AI agents do the work in between.
@@ -53,3 +57,10 @@ You approve the plan once and read the result. Anything an agent cannot safely d
 - Looking up a command: [Slash commands](reference/commands.md)
 - Epic not moving: [Why is my epic stuck?](help/troubleshooting.md)
 - Security questionnaire: [Security overview](security/overview.md)
+
+## More from Forgestus
+
+- [Forgestus.ai](https://forgestus.ai/): what Forge is and how teams use it
+- [Forge platform overview](https://forgestus.ai/platform.html): architecture and how the agents fit together
+- [Pricing and plans](https://forgestus.ai/pricing.html): Team, Business and Enterprise compared
+- [Book a Forge demo](https://calendar.google.com/calendar/appointments/schedules/AcZssZ1mQxVqet7MixvkWyWwbXtTBXqIS_a4kcb-qDxfqhldP1TamzoeIGAKPTg1IdNG2ZY890-0v5UC): talk to the team

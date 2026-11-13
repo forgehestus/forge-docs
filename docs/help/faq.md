@@ -1,3 +1,7 @@
+---
+description: "Frequently asked questions about Forge: modernization, pricing, merging, security and how epics work."
+---
+
 # FAQ
 
 ## Does Forge rewrite everything with AI?
@@ -42,7 +46,7 @@ It stops and says so, with a diagnosis and the command to continue, rather than 
 
 ## How much does it cost?
 
-See the pricing page on [forgestus.ai](https://forgestus.ai). Every epic also gets a cost band with its plan before any building starts. See [Epic lifecycle](../concepts/epic-lifecycle.md).
+See the [Forge pricing and plans page](https://forgestus.ai/pricing.html). Every epic also gets a cost band with its plan before any building starts. See [Epic lifecycle](../concepts/epic-lifecycle.md).
 
 ## Can I try it on my code?
 

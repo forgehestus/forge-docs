@@ -1,3 +1,7 @@
+---
+description: Why is my Forge epic stuck? Common causes and fixes for epics that stop moving.
+---
+
 # Why is my epic stuck?
 
 <span class="badge badge-live">Live</span>

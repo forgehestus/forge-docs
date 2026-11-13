@@ -1,3 +1,7 @@
+---
+description: "The AI agents Forge uses for planning, building, review and delivery, and the guardrails the runtime enforces."
+---
+
 # Agents
 
 <span class="badge badge-live">Live</span>

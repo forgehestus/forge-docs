@@ -1,8 +1,12 @@
+---
+description: "The Forge Assessment: a one-week, fixed-price, read-only analysis of your legacy .NET codebase before modernization starts."
+---
+
 # The Assessment
 
 <span class="badge badge-live">Live</span> <span class="badge badge-plan">Business and Enterprise</span>
 
-The Assessment is the standard first step for a modernization. It is a one-week, fixed-price, read-only analysis. Forge never writes to your code during it. Analysis output goes to a separate notes branch. See the pricing page on [forgestus.ai](https://forgestus.ai) for current terms.
+The Assessment is the standard first step for a modernization. It is a one-week, fixed-price, read-only analysis. Forge never writes to your code during it. Analysis output goes to a separate notes branch. See the [Forge pricing and plans page](https://forgestus.ai/pricing.html) for current terms.
 
 ## What you get
 

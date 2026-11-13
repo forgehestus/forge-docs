@@ -1,3 +1,7 @@
+---
+description: "Forge modernization recipes (early access): CoreWCF, WebForms to Blazor, Windows services, stored procedures to C# and more."
+---
+
 # Recipes
 
 <span class="badge badge-early">Early access</span> <span class="badge badge-plan">Business and Enterprise</span>

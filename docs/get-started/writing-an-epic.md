@@ -1,3 +1,7 @@
+---
+description: How to write a good Forge epic on a GitHub issue so the plan, stories and tests come out right the first time.
+---
+
 # Write a good epic
 
 <span class="badge badge-live">Live</span>

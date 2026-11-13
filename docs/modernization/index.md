@@ -1,3 +1,7 @@
+---
+description: Modernize classic .NET Framework systems to modern .NET with Forge, one slice at a time and tested against today's behavior.
+---
+
 # Modernization overview
 
 <span class="badge badge-live">Live</span> <span class="badge badge-plan">Business and Enterprise</span>

@@ -1,3 +1,7 @@
+---
+description: "Which legacy .NET sources Forge can modernize, which modern targets it migrates to and where migrated code can run."
+---
+
 # Sources and targets
 
 <span class="badge badge-live">Live</span> <span class="badge badge-plan">Business and Enterprise</span>

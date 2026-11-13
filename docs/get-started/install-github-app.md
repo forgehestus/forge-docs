@@ -1,3 +1,7 @@
+---
+description: Install the Forge GitHub App on your organization or repositories and choose which repos Forge can access.
+---
+
 # Install the GitHub App
 
 <span class="badge badge-live">Live</span>
