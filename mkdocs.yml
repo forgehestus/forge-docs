@@ -1,0 +1,93 @@
+site_name: Forge Documentation
+site_description: Documentation for Forge, the autonomous software delivery system from Forgestus.
+site_url: https://forgehestus.github.io/forge-docs/
+repo_url: https://github.com/forgehestus/forge-docs
+repo_name: forgehestus/forge-docs
+edit_uri: edit/main/docs/
+copyright: Forgestus.ai
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Get started:
+      - Quickstart: get-started/quickstart.md
+      - Install the GitHub App: get-started/install-github-app.md
+      - Project setup: get-started/project-setup.md
+      - Write a good epic: get-started/writing-an-epic.md
+      - Bring your own AI key: get-started/byok.md
+  - Concepts:
+      - Epic lifecycle: concepts/epic-lifecycle.md
+      - Agents: concepts/agents.md
+      - Humans in the loop: concepts/human-in-the-loop.md
+      - Branches, PRs and deploys: concepts/branches-prs-deploys.md
+      - Glossary: concepts/glossary.md
+  - Guides:
+      - Ship a feature epic: guides/feature-epic.md
+  - Modernization:
+      - Overview: modernization/index.md
+      - The Assessment: modernization/assessment.md
+      - Sources and targets: modernization/sources-and-targets.md
+      - Parity Proof: modernization/parity-proof.md
+      - Recipes: modernization/recipes.md
+  - Reference:
+      - Slash commands: reference/commands.md
+      - Project settings: reference/project-settings.md
+      - Supported stacks: reference/stacks.md
+      - Plans and availability: reference/plans.md
+  - Security and trust:
+      - Security overview: security/overview.md
+      - Data handling and retention: security/data-handling.md
+      - Certifications and roadmap: security/certifications.md
+  - Help:
+      - Why is my epic stuck?: help/troubleshooting.md
+      - FAQ: help/faq.md
+      - Known limitations: help/limitations.md
+      - Support: help/support.md
